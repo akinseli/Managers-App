@@ -41,9 +41,6 @@ buck-out/
 *.keystore
 !debug.keystore
 
-# VISUAL STUDIO
- 
-  
 
 # fastlane
 #
